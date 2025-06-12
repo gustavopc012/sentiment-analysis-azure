@@ -10,7 +10,7 @@ O objetivo deste laboratório foi aplicar conhecimentos sobre **processamento de
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **Azure Language Studio** – Para análise de sentimento de textos.
 - **Azure Speech Studio** – Para transcrição automática de áudio em texto (e posterior análise).
